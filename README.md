@@ -5,7 +5,7 @@ Tells you who doesn't follow you back on Instagram.
 ## Instrucciones de uso:
 
 1. Instala la librería Selenium. Esta librería le permite al programa utilizar el browser de manera automatica.
-    - Para instalarla debes escribir: ```pip install Selenium```
+    - Para instalarla debes escribir: ```pip install Selenium``` en la terminal.
 2. Descarga el Chromedriver correspondiente a la versión de Chrome que uses y guardarlo en: C:\Webdrivers/chromedriver.exe (si la carpeta no existe, creala).
     - Descarga el chromedriver desde: https://chromedriver.chromium.org/ 
 3. Completa con tu usuario y contraseña de Istagram en el archivo "InstaUser.py". (Una vez descargado, nadie va a poder ver lo que haces en los archivos, así que tu contraseña está segura :wink:)

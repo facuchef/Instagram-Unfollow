@@ -13,4 +13,6 @@ Tells you who doesn't follow you back on Instagram.
     - Dato: Dependiendo de la cantidad de seguidores y seguidos que tengas el programa puede tardar un ratito.
 5. ¡Y... LISTO! :grinning: En el archivo .txt creado vas a poder ver todos las personas que seguís pero no te siguen.
 
-Finalmente debés cerrar la sesión de Instagram de manera manual. El programa finaliza cuando crea el archivo.
+Finalmente debés cerrar la sesión de Instagram de manera manual ya que el programa finaliza cuando crea el archivo.
+
+¡Buena suerte!

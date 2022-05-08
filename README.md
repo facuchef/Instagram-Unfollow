@@ -17,4 +17,4 @@ Finalmente debés cerrar la sesión de Instagram de manera manual ya que el prog
 
 ¡Buena suerte!
 
-Si te gustó seguime en instagram :wink:: facu.amizic 
+Si te gustó seguime en instagram :wink:: :point_right: facu.amizic 
